@@ -7,7 +7,7 @@
 🌎 In 2022, I decided to take a year off to travel around the world until 2023.
 
 
-You can learn more about me on my website [https://www.romainsimon.net](https://www.romainsimon.net)
+You can learn more about me on my website [https://romainsimon.com](https://romainsimon.com)
 
 ## Favorite tech stack
 
