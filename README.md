@@ -8,10 +8,9 @@
 
 ⚡ You can learn more about me on my website [https://romainsimon.com](https://romainsimon.com)
 
-## Current projects
+## Current project
 
-- 🌱 [Beanvest](https://beanvest.com), investment portfolio tracker&nbsp;
-- 👁️ [appwatch](https://appwatch.co), applications directory
+- 🎬 [Melies](https://melies.co), the future of AI Filmmaking
 
 ## Favorite tech stack
 
