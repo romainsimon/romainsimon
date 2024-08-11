@@ -8,9 +8,10 @@
 
 ⚡ You can learn more about me on my website [https://romainsimon.com](https://romainsimon.com)
 
-## Current project
+## Current projects
 
 - 🎬 [Melies](https://melies.co), the future of AI Filmmaking
+- 🎨 [Midjourney sref codes library](https://sref-midjourney.com)
 
 ## Favorite tech stack
 
