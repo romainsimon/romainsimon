@@ -1,6 +1,6 @@
 # Hey, I'm Romain Simon
 
-📧 I am the founder of [Melies](https://melies.co), an AI filmmaking platform
+I am the founder of [Melies](https://melies.co), an AI filmmaking platform
 
 Previously, I founded [Datananas](https://www.datananas.com), a sales engagement SaaS I started in 2014 and which [acquired by Sarbacane](https://www.sarbacane.com/datananas) in 2020, and [Beanvest](https://beanvest.com), an investment portfolio SaaS.
 
@@ -10,9 +10,13 @@ Previously, I founded [Datananas](https://www.datananas.com), a sales engagement
 
 ## Current projects
 
-- 🎬 [Melies](https://melies.co), the future of AI Filmmaking
+- 🍿 [Melies](https://melies.co) AI Filmmaking
 - 🎨 [Midjourney sref codes library](https://sref-midjourney.com)
+- 💸 [Beanvest](https://beanvest.com)
+- 🏃 [Run Plan](https://run-plan.com)
 - 🔗 [Backlinks List](https://backlinks-list.com)
+
+Full list [here](https://yukicapital.com) 
 
 ## Favorite tech stack
 
@@ -23,11 +27,8 @@ Previously, I founded [Datananas](https://www.datananas.com), a sales engagement
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat&logo=javascript)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222?style=flat&logo=mongodb)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222?style=flat&logo=tailwindcss)&nbsp;
-![Tailwind UI](https://img.shields.io/badge/-Tailwind%20UI-222?style=flat&logo=tailwindcss)
 
-I often like to learn new things, but Javascript rules. My favorite tech stack for building SaaS is **Node.js** + **Vue.js** + **MongoDB**.
-
-I really love using **Tailwind CSS** with **Tailwind UI** ❤️
+I often like to learn new things, but Javascript rules. My favorite tech stack for building SaaS is using **Nuxt**
 
 ------
 
