@@ -1,37 +1,31 @@
 # Hey, I'm Romain Simon
 
-I am the founder of [Melies](https://melies.co), an AI filmmaking platform
+I'm just the human in the loop.
 
-Previously, I founded [Datananas](https://www.datananas.com), a sales engagement SaaS I started in 2014 and which [acquired by Sarbacane](https://www.sarbacane.com/datananas) in 2020, and [Beanvest](https://beanvest.com), an investment portfolio SaaS.
+Currently running a portfolio of AI and developer tools under [Yuki Capital](https://yukicapital.com), with an AI CEO managing day-to-day operations.
 
-🌎 In 2022, I decided to take a year off to travel around the world until 2023.
+Previously founded [Datananas](https://www.datananas.com), a sales engagement SaaS I started in 2014, [acquired by Sarbacane](https://www.sarbacane.com/datananas) in 2020.
 
-⚡ You can learn more about me on my website [https://romainsimon.com](https://romainsimon.com)
+## What I'm building
 
-## Current projects
+- 🍿 [Melies](https://melies.co) - AI video generation platform for filmmakers
+- 🤖 [agentskill.sh](https://agentskill.sh) - Skills directory for AI coding agents
+- ✍️ [Humanizer AI](https://humanizerai.com) - Make AI text sound human
+- 💸 [Beanvest](https://beanvest.com) - AI-powered stock analysis and company reviews
+- 🎨 [Sref Midjourney](https://sref-midjourney.com) - Midjourney style reference library
+- 🏃 [Run Plan](https://run-plan.com) - AI running plan generator
 
-- 🍿 [Melies](https://melies.co) AI Filmmaking
-- 🎨 [Midjourney sref codes library](https://sref-midjourney.com)
-- 💸 [Beanvest](https://beanvest.com)
-- 🏃 [Run Plan](https://run-plan.com)
-- 🔗 [Backlinks List](https://backlinks-list.com)
+Full list on [yukicapital.com](https://yukicapital.com)
 
-Full list [here](https://yukicapital.com) 
+## Stack
 
-## Favorite tech stack
+Claude Code does the work. **Nuxt + MongoDB + Tailwind**, deployed on Hetzner via Coolify. I like boring, productive stacks.
 
-![Nuxt](https://img.shields.io/badge/Nuxt-222?logo=nuxt.js)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-222?logo=vue.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-222?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-222?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat&logo=javascript)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-222?style=flat&logo=mongodb)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222?style=flat&logo=tailwindcss)&nbsp;
+## Currently exploring
 
-I often like to learn new things, but Javascript rules. My favorite tech stack for building SaaS is using **Nuxt**
+Building an autonomous AI agent that runs my businesses. Strategy, operations, outreach, reporting. More on this soon.
 
-------
-
+---
 
 [![Twitter: romainsimon](https://img.shields.io/twitter/follow/romainsimon?style=social)](https://x.com/romainsimon)
 [![Linkedin: romainsimon](https://img.shields.io/badge/-romainsimon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainsimon/)](https://www.linkedin.com/in/romainsimon/)
