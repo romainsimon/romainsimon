@@ -14,6 +14,7 @@ An AI CEO helps manage day-to-day operations across the portfolio. I focus on pr
 - 🤖 [agentskill.sh](https://agentskill.sh) - A marketplace and package manager for AI agent skills
 - ✍️ [Humanizer AI](https://humanizerai.com) - AI text humanization and detection tools
 - 🎮 [indiega.me](https://indiega.me) - A solo indie game studio focused on browser-based physics games
+- 🪐 [spacesim.co](https://spacesim.co) - Apace simulation in the browser
 
 The wider portfolio includes [Beanvest](https://beanvest.com), [Sref Midjourney](https://sref-midjourney.com), [Run Plan](https://run-plan.com), [genome.sh](https://genome.sh), and [agenttool.sh](https://agenttool.sh).
 
