@@ -57,3 +57,13 @@ Before and after Datananas, I built dozens of products, games, directories, tool
 ---
 
 If you are interested in autonomous companies, AI filmmaking, agent infrastructure, or unusually ambitious solo projects, follow along.
+
+
+<div align="center">
+  <a href="https://commit-history.com/romainsimon">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/romainsimon?theme=dark" />
+      <img alt="romainsimon's commit history" src="https://commit-history.com/embed/romainsimon" />
+    </picture>
+  </a>
+</div>
